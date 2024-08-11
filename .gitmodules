@@ -1,0 +1,6 @@
+[submodule "learning-partner-firebase-functions"]
+	path = learning-partner-firebase-functions
+	url = https://github.com/dfeverx/learning-partner-firebase-functions
+[submodule "learning-partner-android"]
+	path = learning-partner-android
+	url = https://github.com/dfeverx/learning-partner-android
