@@ -104,14 +104,6 @@ Ninaiva is released under the [MIT License](LICENSE). You're free to use, modify
 
 ---
 
-## 🏆 Awards & Recognition
-
-Ninaiva has been recognized for its innovation in education technology:
-
-- **Winner of XYZ Innovation Challenge 2024**
-- **Top 10 Finalist in ABC AI Competition 2024**
-
----
 
 ## 🌟 Acknowledgments
 
