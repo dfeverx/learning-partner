@@ -1,11 +1,11 @@
-![ninaiva logo]([http://url/to/img.png](https://github.com/dfeverx/learning-partner/blob/main/logo.png))
+![ninaiva logo](https://github.com/dfeverx/learning-partner/blob/main/logo.png)
 
-# Ninaiva : Learning Partner
+
 
 [![YouTube](http://i.ytimg.com/vi/F2M-f6P6cIo/hqdefault.jpg)](https://www.youtube.com/watch?v=F2M-f6P6cIo)
 
 
-
+# Ninaiva : Learning Partner
 **Ninaiva** is your AI-powered learning companion, designed to transform the way you study. By converting your notes into key points, flashcards, and quizzes, Ninaiva ensures you retain knowledge efficiently through features like spaced repetition and detailed explanations.
 
 ---
