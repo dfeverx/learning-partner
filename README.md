@@ -1,4 +1,4 @@
-
+![ninaiva logo]([http://url/to/img.png](https://github.com/dfeverx/learning-partner/blob/main/logo.png))
 
 # Ninaiva : Learning Partner
 
